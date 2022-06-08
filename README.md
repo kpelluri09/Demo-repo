@@ -1,2 +1,3 @@
 # Demo-repo
-blank repo for git testing
+
+Learning Git and github integration!
